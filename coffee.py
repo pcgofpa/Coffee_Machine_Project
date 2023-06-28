@@ -1,23 +1,25 @@
 coffee = [
     {
         "name": "espresso",
-        "water": 100,
+        "water": 50,
         "milk": 0,
-        "Coffee": 50,
-        "price": 3.50
+        "Coffee": 18,
+        "price": 1.50
     },
     {
         "name": "latte",
-        "water": 100,
-        "milk": 0,
-        "Coffee": 50,
-        "price": 6.50
+        "water": 200,
+        "milk": 150,
+        "Coffee": 24,
+        "price": 2.50
     },
     {
         "name": "cappuccino",
-        "water": 100,
-        "milk": 0,
-        "Coffee": 50,
-        "price": 4.25
+        "water": 250,
+        "milk": 100,
+        "Coffee": 24,
+        "price": 3.00
     }
 ]
+
+
